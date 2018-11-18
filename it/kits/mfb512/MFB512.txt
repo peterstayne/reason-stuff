@@ -1,0 +1,25 @@
+MFB 512 Drum machine sounds
+---------------------------
+
+* bassdrum
+* snaredrum
+* cymbal
+* hi tom
+* mid tom
+* low tom
+* hand clap
+* hi hat open
+* hi hat closed
+* 4/4 loop
+
+All sounds were sampled in 44.1 kHz, 16 bits mono
+using a Turtle Beach Tropez plus and Sound Forge.
+
+The beatbox itself is a nightmare to use.
+How about BINARY user interface via small switches??? 
+
+* mfb512.jpg
+
+-----------------------------
+Patrik Eriksson
+me95pen@ing.umu.se

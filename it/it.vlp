@@ -1,0 +1,12 @@
+[program]
+workdir=F:\it\it
+params=
+executable=F:\it\it\it.exe
+[winnt.scheduling]
+compatHWEmu=yes
+[winnt.memory]
+memEMS=16384
+[vdms.sb.dsp]
+devOutType=1
+devOutID=0
+buffer=50

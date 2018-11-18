@@ -1,0 +1,18 @@
+The file KR55KIT.ZIP is a complete sample set of the Korg Rhythm 55
+Preset BeatBox.  All samples are Mono, Normalized, 44.1Khz .WAV files.
+
+
+KR55KICK.WAV - KICK DRUM
+KR55SNAR.WAV - SNARE
+KR55OHAT.WAV - OPEN HI HAT
+KR55CHAT.WAV - CLOSED HI HAT
+KR55COWB.WAV - COWBELL
+KR55TOM.WAV  - TOM
+KR55CYMB.WAV - CYMBAL
+KR55CLAV.WAV - CLAVE
+KR55RIM.WAV  - RIM SHOT
+KR55CNGA.WAV - CONGA
+
+Ed Vargo - October 1995
+dspeade@postoffice.ptd.net
+

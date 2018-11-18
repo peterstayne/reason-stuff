@@ -1,0 +1,84 @@
+1/6/97
+Samples of the Realistic/Moog Concertmate MG-1
+http://www.cse.psu.edu/~hauger/MG-1
+hauger@cse.psu.edu <Benjamin Hauger>
+
+They're probably too noisy to be of much use musically, excepting, perhaps,
+the drum-like samples. This is largely due to sampling from an electronically
+noisy audio loop with my Awe32. I'm not sure if it's my playback client
+(mpg123 v0.56k, Michael Hipp) or simply an artifact of mpeg encoding, but the
+MPEG audio streams also have a lower output level than the corresponding
+.WAVs (which were normalized prior to encoding). 
+
+If you do decide you want to load these into your sampler or trakker, you'll
+probably need to go through the bother of converting them from MPEG and then
+setting loop points in the non-percussive samples. Assuming that nothing was
+cropped by the MPEG encoding process, you should actually be able to line of
+the last audio byte with the first one (or loop the entire file) without a
+hitch. This loop will then provide an output stream that is very darned close
+to the original that I sampled. (Good luck!)
+
+About file naming: 
+.mp3 denotes 44100hz mono MPEG1 Layer III audiostream files.
+.mpg denotes 44100hz mono MPEG1 Layer II audiostream files.
+
+Why use MPEG1 Layer II at all? (for the record, I used musicin, part of the
+source distributed by IUMA, reconstituted by Charles Henrich, and originally
+released by DEC(?)) My MPEG1-L3 encoder (l3enc v2.60, Fraunhofer IIS) choked
+on some of the shorter samples. The obvious solution would be to resample, or
+pad the samples with dead space. Actually, this is all pretty slipshod, and
+I've a Grander Vision. 
+
+I'll probably be adding a page featuring the MG-1, pulling in resources from
+around the net, including MG-1 MODs (no, not modules =) ), patch and other
+operating suggestions, and, of course, clear and musically useful samples in
+both PCM .wav and MP3 format. It'll replace what's at the above URL. 
+
+Until then, if you'd like any of the samples here in their original .wav
+format, ask and I will be happy to either e-mail them to you or provide a URL
+to a directory containing copies of them. If you'd like me to sample with the
+MG-1 at a certain patch setting, I'd also be happy to comply as soon as
+possible. 
+
+
+--- Archive contains:
+
+Bassdrum-short.wav.mp3
+Bassdrum-short2.wav.mp3
+Bassdrum-short3.wav.mp3
+
+	Bass drum patches produced using the MG-1. (Playing these three
+	in sequence makes a neat loop. =) )
+
+
+Snare-D2.wav.mp3
+Snare-c1.wav.mp3
+
+	Snare drum patches produced using the MG-1 
+
+
+Half-Cutoff-sqr-bass-C.wav.mp3
+Half-Cutoff-triag-bass-C.wav.mp3
+
+	Nice low bass. Loop.
+
+
+no-Cutoff-triag-bass-C.wav.mp3
+no-Cutoff-triag-bass-C2.wav.mp3
+no-Cutoff-triag-bass-C3.wav.mp3
+no-Cutoff-triag-bass-C4.wav.mpg
+no-Cutoff-triag-bass-C5.wav.mpg
+
+	Multisampled bass/lead. Filter wide open, no resonance. Loop.
+
+
+saw-lead-cutres-f1.wav.mp3
+saw-lead-cutres-c1.wav.mp3
+saw-lead-cutres-Gb2.wav.mp3
+saw-lead-cutres-c2.wav.mpg
+saw-lead-cutres-Gb3.wav.mpg
+saw-lead-cutres-c3.wav.mpg
+saw-lead-cutres-Gb4.wav.mp3
+
+	'Triag' would be more accurate than 'saw'. Something in the range
+	of filter 2/3rds open, some resonance. Obviously multisampled. Loop.

@@ -1,0 +1,12 @@
+The file DR110KIT.ZIP is a complete sample set of the Boss DR-110 Dr. Rhythm 
+Graphic.  All samples are Mono, 44.1Khz, Normalized .WAV files.
+
+DR110KIK.WAV  - BASS DRUM
+DR110SNR.WAV  - SNARE
+DR110OHT.WAV  - OPEN HI HAT
+DR110CHT.WAV  - CLOSED HI HAT
+DR110CLP.WAV  - CLAP
+DR110CYM.WAV  - CYMBAL
+
+Ed Vargo - June 1995
+dspeade@postoffice.ptd.net

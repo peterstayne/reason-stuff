@@ -1,0 +1,63 @@
+**************************************************************************
+**                                                                      **
+**                909909909   909909909   909909909                     **
+**  Roland        909   909   909   909   909   909                     **
+**                909   909   909   909   909   909      Copyright      **
+**      TR-       909909909   909   909   909909909         1995        **
+**                      909   909   909         909                     **
+**                      909   909   909         909       Rob Roy       **
+**                      909   909   909         909      Recordings     **
+**                      909   909909909         909                     **
+**                                                     Minneapolis, USA **
+**                     Rhythm Composer Samples                          **
+**                                                                      **
+**************************************************************************
+
+Addendum to TR909SET.TXT by Mike Perkowitz (tint@hyperreal.com)
+
+July, 1995
+
+  Jason Baker's TR-909 kit has been installed at the music machines web site
+(http://www.hyperreal.com/machines/) and can be found at
+http://www.hyperreal.com/machines/manufacturers/Roland/TR-909/samples/
+
+  Because a number of people have complained about trouble downloading the
+large full TR-909 kit, I have, with Jason's permission, broken it up into
+separate files which can be downloaded separately. 
+
+  The files are organized by TR-909 instrument and are:
+
+	909-BD.zip		bass drum
+	909-SD.zip		snare drum
+	909-LT.zip		low tom
+	909-MT.zip		mid tom
+	909-HT.zip		hi tom
+	909-RIM.zip		rimshot
+	909-CLP.zip		handclap
+	909-CHH.zip		closed hi-hat
+	909-OHH.zip		open hi-hat
+	909-HH.zip		misc hi-hat sounds
+	909-CSH.zip		crash cymbal
+	909-RD.zip		ride cymbal
+
+  When unzipped, the files will expand into directories as described in
+Jason's original information file (TR909SET.TXT)
+
+
+  Comments/problems with the samples should be reported to Jason:
+
+	Jason Baker
+	Rob Roy Recordings
+	818 SE 8th Street #103
+	Minneapolis, MN 55414  USA
+	email: bake0028@gold.tc.umn.edu
+	web: T.B.A. soon!
+
+
+  Difficulties with the web site may be addressed to Mike:
+
+	tint@hyperreal.com
+
+
+
+-- mike

@@ -1,0 +1,46 @@
+
+Roland TR-808 sample set
+
+
+This sample set was originally created by Michael Fischer, who has since
+seemed to drop out of sight (last known email address: reliv@netcom.com,
+also fischer1@student2.cl.msu.edu).
+
+One version of the sample set, in AIFF format, was kept at the oak.oakland.edu
+site, which has shut down, the sample set apparently lost. Another version
+of the sample set, in WAV format, was retrieved from ftp.cica.indiana.edu
+(or its mirror at archive.orst.edu) and brought to the music machines
+web site (http://www.hyperreal.com/machines/) and placed in
+http://www.hyperreal.com/machines/manufacturers/Roland/TR-808/samples/
+
+Because the sample set is so large, I've broken it up (without Michael's
+permission at this time) into separate files, by 808 instrument. 
+
+These are:
+	808-BD.zip	bass drum
+	808-CB.zip	cowbell
+	808-CH.zip	close hi-hat
+	808-CL.zip	claves
+	808-CP.zip	clap
+	808-CY.zip	cymbal
+	808-HC.zip	hi conga
+	808-HT.zip	hi tom
+	808-LC.zip	lo conga
+	808-LT.zip	lo tom
+	808-MA.zip	?
+	808-MC.zip	mid conga
+	808-MT.zip	mid tom
+	808-OH.zip	open hi-hat
+	808-RS.zip	?
+	808-SD.zip	snare drum
+
+The files expand into separate directories with the WAV files in them.
+
+The full file will stick around at least for a while as:
+	808-ALL.zip
+
+A copy of the AIFF set would be appreciated. contact me.
+
+
+-- mike (tint@hyperreal.com)
+

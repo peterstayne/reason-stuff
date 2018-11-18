@@ -1,0 +1,8 @@
+The file kpr77kit.zip is a complete sample set of the individual sounds of 
+the Korg KPR-77 Rhythmer.  Not so popular, but a nice analog drum machine 
+with some decent programming power.
+
+All the samples are 16 bit, 44.1 KHz and normalized mono WAV files.  
+
+ed vargo - may 1995
+dspeade@postofffice.ptd.net

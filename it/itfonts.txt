@@ -1,0 +1,84 @@
+	___________________________________
+	°±²Û Impulse Tracker Font Sets Û²±°
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+ June 15, 1997
+ ~~~~~~~~~~~~~
+
+
+Font            Author
+-----------------------------------------------------------
+J-Electr        Jari Karppinen
+J-Flux          Jari Karppinen
+J_Curse         Jari Karppinen
+KanaFont        Jari Karppinen
+Thick           Jari Karppinen
+J_Termo         Jari Karppinen
+
+FN-Ice          Phantasm
+FN-Round        Phantasm
+FN-Lower        Phantasm
+
+EK-Mac          Electric Keet
+EK-Space        Electric Keet
+
+SmallCap        Zirconia
+ZircFont        Zirconia
+
+PeriSoft        PeriSoft
+
+GTHS-Bug        Graham the Happy Scum
+
+Peanut          pinion
+Motif           pinion
+
+Script          pulse
+
+DX-Futur        Delta X
+
+Font            Is the font set that IT will use - so,
+                remember to always save!  (pressing
+                control-s and selecting "Font" saves
+                into this file)
+__________________________________________________________
+
+Thanks goes out to..
+
+
+Emmanuel Giasson        (Zirconia)     <giassone@ift.ulaval.ca>.
+
+PeriSoft/capacala                       <w23@cornell.edu>
+
+Jari Karppinen
+
+Phantasm                                <crose@julian.uwo.ca>
+
+Electric Keet
+
+Graham the Happy Scum                   <gths@itclub.mur.csu.edu.au>
+
+Ryan Hayes              (pinion)        <pinion@netcom.com>
+
+Jeffrey Lim             (pulse)         <pulse@student.adelaide.edu.au>
+
+Eric Tremblay           (Delta X)       <deltax@pragma.net>
+
+
+
+
+
+Also, thanks to all d ppl who gave me those interesting lil' ideas :)
+
+
+Did I get everyone?
+
+
+
+
+
+
+
+
+--ZaStaR
+

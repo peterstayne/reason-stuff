@@ -1,0 +1,12 @@
+Anfx.zip
+
+Six analogue "effect" sounds in .wav format, recorded in mono at 44.1k
+
+Anfx1  335292 Analogue wind bell type effect
+Anfx2  492976 Analogue wind bell type effect, more rapid, higher pitched
+Anfx3  382028 Bubble type sound
+Anfx4  268180 Spacey metalic pad
+Anfx5  612572 Metalic wind bell type effect
+Anfx6  568228 Less metalic than Anfx5 and slower in modulation
+
+Copyright free.

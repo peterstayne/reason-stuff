@@ -1,0 +1,2 @@
+Creating directory C:\Users\peter\.schism
+Schism Tracker uses this directory to store your settings.

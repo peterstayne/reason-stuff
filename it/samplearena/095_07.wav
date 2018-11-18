@@ -1,0 +1,185 @@
+ 
+<html>
+<!-- #BeginTemplate "/Templates/standard_samplesagogo.dwt" --> 
+<head>
+<!-- #BeginEditable "doctitle" --> 
+<title>TOUT POUR LA MUSIQUE ! - Qu'attendez-vous pour faire de la musique ?</title>
+<!-- #EndEditable --> 
+<meta name="keywords" content="toutpourlamusique,tplm,tout pour la musique,séquenceur,astuces,logiciels musicaux,logiciels de musique,informatique musicale,musique,logiciel,téléchargement,software,mao,m.a.o.,musique assistée par ordinateur,test,partition,piano,guitare,table de mixage,astuces,séquenceur,sequencer,plugin,direct to disk,effets,micro,sonorisation,clavier,synthétiseur,havette,audio,audionumérique,drivers,carte son, cartes son, cubase,logic,cakewalk,rebirth,korg,yamaha,roland,boite a rythmes,echantilloneur,echantillonage,sampler,emu,winamp,mp3,mpeg">
+<meta name="description" content="Apprendre, diffuser, écouter, jouer, produire, le site qui donne tout pour la musique !">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Author" content="Laurent HAVETTE - ToutPourLaMusique.com">
+<meta http-equiv="content-language" content="fr">
+<meta NAME="expires" CONTENT="never">
+<meta NAME="rating" CONTENT="general">
+<meta NAME="ROBOTS" CONTENT="all | follow | index">
+<meta name="revisit-after" content="7 days">
+<meta NAME="REV" CONTENT="mailto:webmaster@tplm.net">
+<meta NAME="publisher" CONTENT="tplm.com">
+<link REL="PUBLISHER" HREF="http://www.toutpourlamusique.com/">
+</head>
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<div align="center"> 
+  <div align="center"> 
+    <div align="center"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr bgcolor="#B8CCE0"> 
+          <td colspan="3" valign="middle"> 
+            <center>
+              <!-- #BeginLibraryItem "/Library/accroche2.lbi" --><font size="1" face="Arial, Helvetica, sans-serif" color="#666666"><a name="haut"></a>Fournisseur 
+officiel de mati&egrave;res premi&egrave;res pour les cr&eacute;ateurs de musique 
+- Raw material for music creator</font><!-- #EndLibraryItem --> 
+              <table border="0" cellspacing="2" cellpadding="1" width="640">
+                <tr> 
+                  <td align="left" colspan="2" valign="middle"> 
+                    <div align="left"><a href="home.htm"><img src="img/1logo_samples.gif" width="319" height="72" border="0"></a> 
+                    </div>
+                  </td>
+                  <td align="left" valign="middle"> 
+                    <form action="../cgi-bin/tplm.cgi" name="">
+                      <font size="2"> 
+                      <input type="hidden" name="mode" value="trouver">
+                      <font face="Arial, Helvetica, sans-serif" size="1"><b>Rechercher</b></font><font face="Arial, Helvetica, sans-serif"> 
+                      </font></font> <font size="2"><br>
+                      <input type=TEXT size=8 name=id maxlength="255">
+                      <select name="select">
+                        <option value="non">Exact</option>
+                        <option value="OR" selected>Large</option>
+                      </select>
+                      <input type="submit" name="Submit" value="Ok">
+                      </font> 
+                    </form>
+                  </td>
+                  <td align="left" valign="top"> 
+                    <p> 
+                    <div align="left"><!-- #BeginLibraryItem "/Library/menu_haut1.lbi" -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr valign="top"> 
+    <td width="50%"><b><font face="Arial, Helvetica, sans-serif" size="1"><a href="../home.htm" target="_top">Sommaire</a><br>
+      <a href="../users/identification.php" target="_top">Votre compte<br>
+      </a><a href="../actualite/home.htm" target="_top">Flash info<br>
+      </a><a href="../news.php" target="_top">Nouveaut&eacute;s</a> <br>
+      <a href="../users/newsletter.htm" target="_top">Newsletter</a> </font></b></td>
+    <td width="50%"> 
+      <p><b><font size="1" face="Arial, Helvetica, sans-serif"><a href="../annonce/index.php" target="_top">Annonces</a> 
+        <br>
+        <a href="../forum/index.php" target="_top">Forums</a><br>
+        <a href="../ajout.htm">Ajouter</a><br>
+        <a href="../encheres/home.htm" target="_top">Ench&egrave;res<br>
+        </a><a href="../chat/home.htm">Chat</a> <br>
+        <a href="../sarl.htm" target="_top">Contact</a> </font></b></p>
+    </td>
+  </tr>
+</table>
+<!-- #EndLibraryItem --></div>
+                  </td>
+                </tr>
+              </table>
+            </center>
+          </td>
+        </tr>
+        <tr> 
+          <td bgcolor="#000000" colspan="3" valign="middle"><font face="Arial, Helvetica, sans-serif" size="1"><img src="../images/carre_noir.gif" width="100%" height="2"></font></td>
+        </tr>
+        <tr bgcolor="#FFFFCC"> 
+          <td colspan="3"> 
+            <center>
+              <!-- #BeginLibraryItem "/Library/menu_general1.lbi" --> 
+<table border="0" cellspacing="1" cellpadding="1">
+  <tr align="center"> 
+    <td> 
+      <p align="center"><a href="../mao/home.htm" target="_top"><font size="1" face="Arial, Helvetica, sans-serif"><b>M.A.O</b></font></a><b><font size="1" face="Arial, Helvetica, sans-serif"> 
+        . <a href="../rubriques/179.htm" target="_top">Partitions tabs</a> . <a href="../monsieurmp3/home.htm" target="_top">MP3</a> 
+        . <a href="../guitaremaster/home.htm" target="_top">Guitares</a> . <a href="../rubriques/170.htm" target="_top">D.J</a> 
+        . <a href="../rubriques/inst_electro.htm" target="_top">Synth&eacute;s</a> 
+        . <a href="../enregistrer/home.htm" target="_top">Enregistrement</a> . 
+        <a href="home.htm" target="_top">Samples</a> . <a href="../rubriques/418.htm" target="_top">Batterie</a> 
+        . <a href="../rubriques/408.htm" target="_top">Pianos</a> . <a href="../rubriques/392.htm" target="_top">Vents</a> 
+        . <a href="../rubriques/395.htm" target="_top">Cordes</a> . <a href="../artistesonline/home.htm">Artistes</a></font></b><b><font size="1" face="Arial, Helvetica, sans-serif"> 
+        </font></b></p>
+    </td>
+  </tr>
+  <tr align="center"> 
+    <td> 
+      <div align="center"><b><font size="1" face="Arial, Helvetica, sans-serif">Base 
+        de donn&eacute;es : </font></b><b><font size="1" face="Arial, Helvetica, sans-serif"><a href="../cgi-bin/tplm.cgi?mode=trouver&id=acheter&select=non">Acheter</a> 
+        . <a href="../cgi-bin/tplm.cgi?mode=trouver&amp;id=apprendre&amp;select=non" target="_top">Apprendre</a> 
+        . <a href="../cgi-bin/tplm.cgi?mode=trouver&amp;id=diffuser&amp;select=non" target="_top">Diffuser</a> 
+        . <a href="../cgi-bin/tplm.cgi?mode=trouver&amp;id=ecouter&amp;select=non" target="_top">Ecouter</a> 
+        . <a href="../cgi-bin/tplm.cgi?mode=trouver&id=enregistrer&select=non">Enregistrer</a> 
+        . <a href="../cgi-bin/tplm.cgi?mode=trouver&amp;id=jouer&amp;select=non" target="_top">Jouer</a> 
+        . <a href="../cgi-bin/tplm.cgi?mode=trouver&amp;id=produire&amp;select=non" target="_top">Produire</a> 
+        - La boutique <a href="http://www.tplm.com/tubesenstock" target="_top">TubesEnStock</a></font></b></div>
+    </td>
+  </tr>
+</table>
+<!-- #EndLibraryItem --><font size="1" face="Arial, Helvetica, sans-serif"></font> 
+            </center>
+          </td>
+        </tr>
+        <tr> 
+          <td colspan="3" valign="middle"><!-- #BeginEditable "PUB" --> 
+            <table border="0" cellspacing="1" cellpadding="1" background="../images/fond_pub.gif" width="100%">
+              <tr align="center"> 
+                <td></td>
+              </tr>
+            </table>
+            <center>
+              <!-- #BeginLibraryItem "/Library/pub_francite_ministre.lbi" --><!-- #EndLibraryItem --></center>
+            <!-- #EndEditable --> </td>
+        </tr>
+        <tr> 
+          <td colspan="3" valign="middle"> 
+            <center>
+              <!-- #BeginEditable "TEXTE" --> 
+              <table width="640" border="0" cellspacing="3" cellpadding="3">
+                <tr align="center"> 
+                  <td> 
+                    <p align="center"> 
+                    <div align="center"> <a href="http://www.samplearena.com" target="_blank"><img src="../images/bannieres/samplearena.gif" width="250" height="33" border="1"></a> 
+                    </div>
+                  </td>
+                </tr>
+                <tr> 
+                  <td>
+                    <div align="center"><a href="../waves/095_07.wav">095_07.wav</a></div>
+                  </td>
+                </tr>
+              </table>
+              <!-- #EndEditable --> 
+            </center>
+          </td>
+        </tr>
+        <tr> 
+          <td bgcolor="#000000" colspan="3" valign="middle"><img src="../images/carre_noir.gif" width="100%" height="2"></td>
+        </tr>
+        <tr> 
+          <td bgcolor="#F0F0F0" colspan="3" valign="middle"> 
+            <center>
+              <!-- #BeginLibraryItem "/Library/menu_basdepage.lbi" -->
+<p><a href=../sarl.htm target="_parent"><font size="1" face="Arial, Helvetica, sans-serif"><b>Au 
+  sujet du site / About this site</b></font></a><b><font size="1" face="Arial, Helvetica, sans-serif"> 
+  | <a href=../publicite.htm target="_parent">Publicit&eacute; / Advertising</a> 
+  | <a href="mailto:webmaster@tplm.com" target="_parent">Contact</a> | <a href="../home.htm" target="_parent">Sommaire 
+  / Home</a> | <a href="#haut" target="_top">Haut / Top</a></font></b></p>
+<!-- #EndLibraryItem --></center>
+          </td>
+        </tr>
+      </table>
+      <!-- #BeginLibraryItem "/Library/copyright.lbi" --><font size="1" face="Arial, Helvetica, sans-serif">Copyright &copy; 2000 - 2001 
+- ToutPourLaMusique.com - Tous droits r&eacute;serv&eacute;s - Marque d&eacute;pos&eacute;e</font><!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/compteurs.lbi" -->
+<table border="0" align="center" width="170">
+  <tr valign="middle" align="center"> 
+    <td width="50%"> 
+      <center>
+        <a href=http://www.hit-parade.com/hp.asp?site=p39060 target=_top><img src=http://logp.hit-parade.com/logohp1.gif?site=p39060 alt="Hit-Parade" border=0></a> 
+      </center>
+    </td>
+  </tr>
+</table>
+<!-- #EndLibraryItem --></div>
+  </div>
+</div>
+</body>
+<!-- #EndTemplate -->
+</html>

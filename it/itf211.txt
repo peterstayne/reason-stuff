@@ -1,0 +1,194 @@
+_______________
+°±²Û I T F Û²±°      June 15, 1997  v2.11
+~~~~~~~~~~~~~~~           Ÿrom ZaStaR
+
+
+
+The Impulse Tracker Font Customizer.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Are you using a text mode tracker?
+Do you squint at those tiny numbers?
+Do you complain about fat letters?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Well Complain no more!  Now, with ITF,
+you can choose (and make!) your own fonts!!
+
+
+
+(Relax, ITF wastes absolutely ZERO memory
+ space from Impulse Tracker!)
+
+
+
+____Using ITF______________________________
+Basically its much like ST3 and IT's
+controlls...
+
+Arrows   Navigate inside the edit box
+Tab      Go Between the Edit Box, the
+         Font List Box. (If you're
+         really coordinated, you can even 
+         directly copy and paste from
+         the Font List box! :)
+         If the Scroll Lock is also on,
+         this will also go between the
+         Preview Box.
+
+Shift+Tab Reverse direction of Tab.
+         (goes through Preview Box
+          even when Scroll Lock is
+          off)
+
+Space    Plot if Empty before
+         Blank if Plotted before
+Del      Blank a line Horizantally
+Ins      Fill a line Horizontally
+
++        Next Character to Edit
+         (Also Ctrl+RightArrow)
+-        Previous Character
+         (Also Ctrl+LeftArrow)
+PageDown 4 Characters Ahead
+PageUp   4 Characters Before
+Home     First editable Character
+End      Last editable Character
+
+Shift+Arrow  Shifts a character a
+         bit left, right, higher, or
+         lower
+
+[        Rotates the character left
+         by 90ø
+]        Rotates the character right
+         by 90ø
+{        Fine tuning Rotation to the
+         left.
+}        Fine tuning Rotation to the
+         right.
+
+Alt I    Inverse the current character
+         (just try it, you can inverse
+          again to get it back :)
+Alt C    Copy a Character
+Alt P    Paste a Character
+Alt Z    Clear the Edit Box
+
+Ctrl R   Reload Character Bank.
+         Use the arrow keys here and
+         Enter to load up a file to
+         see the fonts they hold.  
+Ctrl S   Save into a Character Bank.
+         User the arrow keys here as
+         well.  Press Enter to
+         overwrite a file.
+         Only saving it as "Font.CFG"
+         would Impulse Tracker update
+         it's font.
+
+         (Remember, nothing's really
+          done until you save!)
+
+Ctrl Q   Go make a Song.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+____Using ITF "Lesser Functions"________________
+
+Shift-G  Saves the font into a raw
+        graphics file (8x2048).  Just
+        Press Shift-G anytime in the
+        Control-S saving window...
+        it'll always save only into
+        "2x2048.Raw"
+
+Control+BackSpace
+         You can IGNORE this button.
+         It just reloads the old
+         standard 8x8 ROM font... but,
+         I'm sure you'd prefer the other
+         cool fonts.
+
+BackSpace
+         You can ignore this one too.
+         This only reloads the default
+         IT graphics set - so the
+         other characters (like A to z)
+         are not defaulted.
+
+
+
+____Files________________________________________
+
+Everything is reletively easy to
+  try out so just run ITF and see for
+  yourself.  *Remember!: Impulse Tracker
+  strictly uses Font.Cfg.  If you have
+  another font you want Impulse Tracker
+  to use, rename it to Font.Cfg (after 
+  making a backup for the original, of course ;)
+The other font files are font set banks..saved
+  as "*.ITF"'s.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Special thanks to Jeffrey Lim for some
+ vital programming support (testing, info,
+ supporting ITF in IT, music to listen to,
+ and, basically, everything).
+_________________________________________________
+And a Standard Disclaimer...
+"I disclaim all responsibility for all
+ possible 'bad' stuff ITF may possibly
+ do."   ---ZaStaR
+_________________________________________________
+Questions? Comments? Or, :) If you make a
+ great new font set (usable OR artistic) 
+ please send them to me...I may be able
+ to release them in the future for everyone.
+ I'm at (zastar@uclink4.berkeley.edu).
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+And Finally....
+ Stop Reading this and GO MAKE THAT
+  great  S O N G  for all to Hear ! ! !
+  (or the environment to make that song)  ;)
+
+
+       \ /\ /
+     \ //~~\\ /
+     Z a S t a R
+     / \\__// \
+       / \/ \
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P.S.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+If you thing you're REALLY good, you can try out
+  the special command line options.  Type "ITF ?"
+  to get some info on this.
+
+Option -f loads a 8x16 font file and *tries* really
+  hard to squish it into the 8x8 form.
+Option -g loads a graphic file (must be RAW).
+  It must only have two colors (one being black) for
+  obvious reasons.  The actual X resolution of the
+  RAW graphics file should be a multiple of 8, since
+  each character is only 8 pixels wide.
+
+
+
+If you got suggestions for more additional
+  functions for whatever need, just tell me.  I'll
+  put it in (if my University allows me the time  ;)
+
+Okay, that's all!   Now go make that song !!

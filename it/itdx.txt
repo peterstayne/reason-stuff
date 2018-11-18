@@ -1,0 +1,41 @@
+Impulse Tracker 2 DirectX Launcher
+(c) 1999 Mauro 'DjM' Molinari of Digital Things Software
+Impulse Tracker 2 is (c) 1995-1999 Jeffrey Lim
+
+Select Word Wrap to correctly show this TXT.
+
+What's this?
+============
+
+Impulse Tracker 2 DirectX Launcher (ITDX) is a Win32 executable, useful to run Impulse Tracker 2 (IT2) from within Windows 9x shell, using the DirectX Virtual Sound Driver (download Impulse Tracker 2.14 patch #4 and follow the instructions included to use the VSound driver). 
+
+Why this?
+=========
+
+With ITDX you will be able to aumatically start VSound Driver Server and IT2 with a single click, but also to modify ANY options to pass to the VSound driver or to IT.EXE in an extremely easy way: you'll work with a series of check boxes and spin edits instead of having to edit the system registry and/or pass a huge list of command-line parameters to IT.EXE.
+
+How to use it?
+==============
+
+- Copy ITDX.EXE, ITDX.INI and ITDX.TXT to your IT2 directory. 
+- You can then put a link to ITDX.EXE wherever you want (perhaps in your Start Menu or on your desktop). 
+- Just double click over it to start ITDX. 
+- The first time you run ITDX, you'll be shown the default options already selected. Make the desired changes and click on "Run IT2" to start IT2. 
+- You may wish to start the Server only, clicking on "Start Server Only"; otherwise it will be automatically started for you when you run IT2.
+- While IT2 is running, you can switch to ITDX but you can't close it (for safety reasons): you must close IT2, first.
+- If you're going to close ITDX while the Server is still running, a message box will appear, advising that it is suggested to manually shut down Server before closing ITDX. This is necessary, because while ITDX is able to close Server automatically, it seems then impossible to run the Server a second time (a "Connect to VSOUND.VXD failed" message is given, probably due to some special code inserted in the closing method of SERVER.EXE itself). IT2 seems to run ok even if that error is given (maybe the VSOUND.VXD is still open in memory), but you'll need to restart Windows in order to make things work properly again.
+- Settings are saved into ITDX.INI when you close ITDX. You may wish to directly edit that INI file to change the options. Deleting ITDX.INI will have the effect of restoring the default settings.
+- When inserting values such as Mixing Frequency, Buffer Size, etc., hold the mouse pointer on the respective spin edit for a while, in order to be shown the range of possible values you can enter.
+- For any further information about VSound driver and IT.EXE settings please refer to README.TXT (in IT 2.14 patch #4 package), IT.TXT and/or SUMMARY.TXT (in any IT release package).
+
+Is ITDX made by Pulse?
+======================
+
+No, sorry. I am a registered user of IT2, nothing more. For problems related to the use of ITDX, contact me at one of the following e-mail addresses and don't annoy Pulse.
+
+That's all. Enjoy.
+
+Mauro 'DjM' Molinari
+Digital Things Software
+Contact at: mauromol@tin.it or djm_dit@geocities.com
+Digital Things Web Site: http://fly.to/DigitalThings

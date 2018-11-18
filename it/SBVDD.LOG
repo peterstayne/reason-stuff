@@ -1,0 +1,15 @@
+3636:97740402 *** DspStartOutput() sample rate 45454 is too high, selecting 44k1Hz
+3636:97746329 *** DspStartOutput() sample rate 45454 is too high, selecting 44k1Hz
+3636:97790815 *** MixerWrite() DMA assignment 0x22 not implemented
+3636:97790816 *** MixerWrite() IRQ assignment 0x02 not implemented
+588:91709534 *** DspStartOutput() sample rate 45454 is too high, selecting 44k1Hz
+588:91728063 *** MixerWrite() DMA assignment 0x22 not implemented
+588:91728063 *** MixerWrite() IRQ assignment 0x02 not implemented
+3948:91776359 *** DspStartOutput() sample rate 45454 is too high, selecting 44k1Hz
+3200:91820204 *** DspStartOutput() sample rate 45454 is too high, selecting 44k1Hz
+3328:92162703 *** DspStartOutput() sample rate 45454 is too high, selecting 44k1Hz
+3996:92279793 *** DspStartOutput() sample rate 45454 is too high, selecting 44k1Hz
+2828:4445956 *** DspStartOutput() sample rate 45454 is too high, selecting 44k1Hz
+2828:4453869 *** DspStartOutput() sample rate 45454 is too high, selecting 44k1Hz
+2828:4476163 *** MixerWrite() DMA assignment 0x22 not implemented
+2828:4476163 *** MixerWrite() IRQ assignment 0x02 not implemented
